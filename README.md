@@ -1,5 +1,9 @@
-# Davi Matos | IFRS - Campus Feliz
-<div display="flex" flex-direction="column">
+# Davi Matos
+
+**🏫 IFRS - Campus Feliz**
+**🎓 3º Ano - Téq. Informática**
+
+<div>
 <img height="40px" src="https://raw.githubusercontent.com/syvixor/skills-icons/2208279929dbdb345b00d34200417c66d4fc6c68/icons/typescript.svg">
 
 <img height="40px" src="https://raw.githubusercontent.com/syvixor/skills-icons/2208279929dbdb345b00d34200417c66d4fc6c68/icons/reactjs.svg">
