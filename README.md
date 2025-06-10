@@ -1,8 +1,10 @@
 # Davi Matos
 
-**🏫 IFRS - Campus Feliz**
-**🎓 3º Ano - Téq. Informática**
+**🏫 IFRS - Campus Feliz**<br>
+**🎓 3º Ano - Téc. Informática IEM**<br>
+**📍 Nova Petrópolis - RS**<br>
 
+### 🍃
 <div>
 <img height="40px" src="https://raw.githubusercontent.com/syvixor/skills-icons/2208279929dbdb345b00d34200417c66d4fc6c68/icons/typescript.svg">
 
