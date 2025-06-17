@@ -6,7 +6,7 @@
 
 ---
 <div>
-<img height="40px" cursor="default" src="https://raw.githubusercontent.com/syvixor/skills-icons/2208279929dbdb345b00d34200417c66d4fc6c68/icons/typescript.svg">
+<img height="40px" src="https://raw.githubusercontent.com/syvixor/skills-icons/2208279929dbdb345b00d34200417c66d4fc6c68/icons/typescript.svg">
 
 <img height="40px" src="https://raw.githubusercontent.com/syvixor/skills-icons/2208279929dbdb345b00d34200417c66d4fc6c68/icons/reactjs.svg">
 
