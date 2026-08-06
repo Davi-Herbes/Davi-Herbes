@@ -1,7 +1,7 @@
 # Davi Matos
 
 **🏫 IFRS - Campus Feliz**<br>
-**🎓 3º Ano - Téc. Informática IEM**<br>
+**🎓 4º Ano - Téc. Informática IEM**<br>
 **📍 Nova Petrópolis - RS**<br>
 
 ---
